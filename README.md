@@ -1,0 +1,2 @@
+# KycProject
+DjangoKycProject
